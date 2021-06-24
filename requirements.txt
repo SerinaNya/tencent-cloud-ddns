@@ -1,0 +1,4 @@
+netifaces
+requests
+tencentcloud-sdk-python-common==3.0.428 
+tencentcloud-sdk-python-dnspod==3.0.428
